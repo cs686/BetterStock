@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic
+pandas
+numpy
+aiohttp
+beautifulsoup4
+apscheduler
